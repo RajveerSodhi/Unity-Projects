@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{A360CFE2-6A4F-B33E-7FA8-FBAB1D97A4D4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/fingers_up.cs">
+    <Files>
+      <File FileName="Assets/fingers_up.cs" Line="15" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="alien" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="be70a782-6079-4f18-b123-44e691de54a4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
